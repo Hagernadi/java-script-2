@@ -1,0 +1,27 @@
+#qutes h1{
+    font-size: 80px;
+    font-weight:900;
+    margin: 50px 0px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+    
+}
+#qutes p{
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#qutes button{
+    padding: 25px 90px;
+    background-color: blue;
+    transition: 0.1s background-color;
+    color: white;
+    font-size: 14px;
+    margin: 20px 0px;
+}
+#qutes button:hover{
+    background-color: green;
+}
+
+
+
